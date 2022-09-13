@@ -1,7 +1,8 @@
 #include "main.h"
 
 /*
- * main - print _putchar, follow by a new line
+ * main - entry point
+ * Description: print _putchar, follow by a new line
  * Return: alway 0 (success)
  */
 int main(void)
