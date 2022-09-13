@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-/**
+/*
  * main - prints all possible different of three digits
  * Return: Always 0 (Success)
  */
