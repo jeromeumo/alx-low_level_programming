@@ -1,7 +1,11 @@
 #include <stdio.h>
 
 /*
+<<<<<<< HEAD
  * main - prints all possible different combinations of three digits
+=======
+ * main - print all possible different of three digits
+>>>>>>> 7df74b05e6e3272cfa7a1ad09c0b87487bba3218
  * Return: Always 0 (Success)
  */
 int main(void)
