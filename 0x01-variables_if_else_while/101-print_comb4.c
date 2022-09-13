@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /*
- * main - prints all possible different of three digits
+ * main - print all possible different of three digits
  * Return: Always 0 (Success)
  */
 int main(void)
