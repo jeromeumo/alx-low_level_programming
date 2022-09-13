@@ -4,8 +4,9 @@
 /*
  * main - entry point
  * Description: print putchar, follow by a new line
- * Return: alway 0 (success)
+ * Return: Always return 0 (success)
  */
+
 int main(void)
 {
 	char word[8] = "_putchar";
