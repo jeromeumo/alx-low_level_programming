@@ -2,10 +2,10 @@
 
 /*
  * main - entry point
- * Description: print _putchar, follow by a new line
+ * Description: print putchar, follow by a new line
  * Return: alway 0 (success)
  */
-int main(void)
+void main(void)
 {
 	_putchar('_');
 	_putchar('p');
