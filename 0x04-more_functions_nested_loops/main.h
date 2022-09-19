@@ -1,5 +1,5 @@
-#ifndef FILE_HOLBERTON
-#define FILE_HOLBERTON
+#ifndef H_MAIN
+#define H_MAIN
 
 int _putchar(char c);
 int _isupper(int c);
